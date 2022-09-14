@@ -1,2 +1,4 @@
-test 
-test
+try:
+	print(1)
+except:
+	print(2)
