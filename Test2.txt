@@ -1,4 +1,5 @@
 try:
 	print(1)
+	print(5)
 except:
 	print(2)
