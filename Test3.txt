@@ -2,3 +2,6 @@ if x==1:
 	add
 else:
 	sub
+
+if mul
+else div
