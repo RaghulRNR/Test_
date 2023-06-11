@@ -2,3 +2,4 @@ for x in list:
 	print x
 	print(sss)
 	print list[x]
+	kcoejid
