@@ -5,3 +5,5 @@ else:
 
 if mul
 else div
+else
+mod
