@@ -1,3 +1,5 @@
 for x in list:
 	print x
+	print y
+	print z
 	print list[x]
